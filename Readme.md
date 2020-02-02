@@ -1,6 +1,6 @@
 # Retrieval-based Neural Source Code Summarization
-This project mainly includes source ode, experimental data and results of our approach Rencos.
-We also release two approaches NNGen and GRNMT referred in our paper that are not publicly available and implemented by ourselves.
+This project mainly includes source ode, experimental data and results of our paper entitled "Retrieval-based Neural Source Code Summarization" that will be presented at ICSE'2020. Instead of only relying on a single encoder-decoder model, our proposed approach Rencos can take advantages of both neural and retrieval-based techniques by enhancing it with retrieved similar code snippets from the aspects of syntax and semantics though our fusion model. The results on the source code summarization task show that it can effectively deal with low-frequency problem in NMT-based approach and thus improve the performance.
+
 
 
 ## How to run the code and reproduce experimtal results of our approach?
